@@ -1,0 +1,40 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.btn {
+  width: 80px;
+  height: 80px;
+  font-size: large;
+  margin: 2px;
+}
+
+.container {
+  background-color: lightgray;
+  width: 400px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.display {
+  height: 40px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 2%;
+  background-color: lightblue;
+  padding: 15px;
+}
